@@ -7,7 +7,7 @@ Instale as dependências após clonar o repositório
 ## BACKEND
 - $ cd teste_feegow
 - $ composer install
-- $ php artisan migrate:fresh;
+- $ php artisan migrate:fresh
 - $ php artisan serve
 
 ## Dependências e Libraries Frontend
