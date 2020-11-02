@@ -7,6 +7,9 @@ Instale as dependências após clonar o repositório
 ## BACKEND
 - $ cd teste_feegow
 - $ composer install
+- Alterar .env.example para .env 
+- colocar os dados do seu banco no .env
+- $ php artisan key:generate
 - $ php artisan migrate:fresh
 - $ php artisan serve
 
