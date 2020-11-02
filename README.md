@@ -11,7 +11,7 @@ Instale as dependências após clonar o repositório
 - $ php artisan serve
 
 ## Dependências e Libraries Frontend
-- Plugin 	README
+
 - **[axios](https://github.com/axios/axios#readme)**
 - **[bootstrap](https://github.com/twbs/bootstrap#readme)**
 - **[jquery](https://github.com/jquery/jquery#readme)**
